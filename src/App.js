@@ -2,6 +2,8 @@
 // import './App.css';
 // import { useState } from 'react';
 
+// from cloning the repo.
+
 // function App() {
 //  var arr = [];
 //   function  add1(){
